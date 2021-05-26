@@ -1,4 +1,4 @@
-package Factory;
+package design.pattern.factory;
 
 public class CarsFactory {
     public static Car getCar(CarType type){

@@ -1,1 +1,5 @@
-# design_pattern
+# Design Pattern
+
+- Factory
+- Facade
+

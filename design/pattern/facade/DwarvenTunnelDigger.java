@@ -1,4 +1,4 @@
-package Facade;
+package design.pattern.facade;
 
 public class DwarvenTunnelDigger extends DwarvenMineWorker{
     @Override

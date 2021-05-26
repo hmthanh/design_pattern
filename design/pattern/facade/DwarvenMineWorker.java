@@ -1,4 +1,4 @@
-package Facade;
+package design.pattern.facade;
 
 import java.util.Arrays;
 
