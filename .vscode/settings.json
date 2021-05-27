@@ -8,8 +8,9 @@
         "editor.formatOnSave": true,
         "editor.formatOnPaste": true
     },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
     "javascript.format.enable": false,
     "explorer.compactFolders": false,
     "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
-    
 }
